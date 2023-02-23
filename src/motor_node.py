@@ -13,7 +13,7 @@ import time
 class ReadWrite():
     def __init__(self):
         self.serial_topic = '/salty/move'
-        rospy.Subscriber(self.move_topic, Move, self.callback)
+        # rospy.Subscriber(self.move_topic, String, self.callback)
         self.serial_pub = rospy.Publisher(self.serial_topic, String, queue_size=10)
 
         rospy.loginfo("Motor Node Initialized")
