@@ -22,3 +22,10 @@ class ReadWrite():
         move_msg = String
         move_msg.data = "r2000"
         self.serial_pub.publish(move_msg)
+
+if __name__ == "__main__":
+    rospy.init_node("motor_node")
+    ns = rospy.get_name() + "/"
+    pubsub = ReadWrite()
+    while not rospy.is_shutdown():
+        pubsub.publish()
