@@ -1,0 +1,14 @@
+[  0%] Built target _actionlib_msgs_generate_messages_check_deps_GoalStatusArray
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _actionlib_msgs_generate_messages_check_deps_GoalID
+[  0%] Built target _actionlib_msgs_generate_messages_check_deps_GoalStatus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[ 41%] Built target actionlib_msgs_generate_messages_nodejs
+[ 41%] Built target actionlib_msgs_generate_messages_py
+[ 58%] Built target actionlib_msgs_generate_messages_lisp
+[ 82%] Built target actionlib_msgs_generate_messages_eus
+[100%] Built target actionlib_msgs_generate_messages_cpp
+[100%] Built target actionlib_msgs_generate_messages

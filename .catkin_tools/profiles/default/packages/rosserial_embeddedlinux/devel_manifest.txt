@@ -1,0 +1,7 @@
+rosserial/rosserial_embeddedlinux
+/home/terry/salty-ws/devel/.private/rosserial_embeddedlinux/cmake.lock /home/terry/salty-ws/devel/./cmake.lock
+/home/terry/salty-ws/devel/.private/rosserial_embeddedlinux/lib/rosserial_embeddedlinux/cmake.lock /home/terry/salty-ws/devel/lib/rosserial_embeddedlinux/cmake.lock
+/home/terry/salty-ws/devel/.private/rosserial_embeddedlinux/lib/rosserial_embeddedlinux/make_libraries.py /home/terry/salty-ws/devel/lib/rosserial_embeddedlinux/make_libraries.py
+/home/terry/salty-ws/devel/.private/rosserial_embeddedlinux/lib/pkgconfig/rosserial_embeddedlinux.pc /home/terry/salty-ws/devel/lib/pkgconfig/rosserial_embeddedlinux.pc
+/home/terry/salty-ws/devel/.private/rosserial_embeddedlinux/share/rosserial_embeddedlinux/cmake/rosserial_embeddedlinuxConfig-version.cmake /home/terry/salty-ws/devel/share/rosserial_embeddedlinux/cmake/rosserial_embeddedlinuxConfig-version.cmake
+/home/terry/salty-ws/devel/.private/rosserial_embeddedlinux/share/rosserial_embeddedlinux/cmake/rosserial_embeddedlinuxConfig.cmake /home/terry/salty-ws/devel/share/rosserial_embeddedlinux/cmake/rosserial_embeddedlinuxConfig.cmake

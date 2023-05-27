@@ -1,0 +1,2 @@
+rosserial/rosserial
+/home/terry/salty-ws/devel/.private/rosserial/cmake.lock /home/terry/salty-ws/devel/./cmake.lock

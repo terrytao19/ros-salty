@@ -1,0 +1,5 @@
+Symlinking /home/terry/salty-ws/devel/lib/pkgconfig/rosserial_chibios.pc
+Symlinking /home/terry/salty-ws/devel/share/rosserial_chibios/cmake.lock
+Symlinking /home/terry/salty-ws/devel/share/rosserial_chibios/make_libraries.py
+Symlinking /home/terry/salty-ws/devel/share/rosserial_chibios/cmake/rosserial_chibiosConfig-version.cmake
+Symlinking /home/terry/salty-ws/devel/share/rosserial_chibios/cmake/rosserial_chibiosConfig.cmake

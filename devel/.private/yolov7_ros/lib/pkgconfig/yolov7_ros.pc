@@ -1,0 +1,8 @@
+prefix=/home/terry/salty-ws/devel/.private/yolov7_ros
+
+Name: yolov7_ros
+Description: Description of yolov7_ros
+Version: 0.0.0
+Cflags: -I/home/terry/salty-ws/devel/.private/yolov7_ros/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

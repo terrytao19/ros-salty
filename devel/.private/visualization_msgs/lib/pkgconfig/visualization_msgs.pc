@@ -1,0 +1,8 @@
+prefix=/home/terry/salty-ws/devel/.private/visualization_msgs
+
+Name: visualization_msgs
+Description: Description of visualization_msgs
+Version: 1.13.1
+Cflags: -I/home/terry/salty-ws/devel/.private/visualization_msgs/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs message_runtime std_msgs

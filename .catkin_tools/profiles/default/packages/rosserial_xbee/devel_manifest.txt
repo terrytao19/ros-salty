@@ -1,0 +1,7 @@
+rosserial/rosserial_xbee
+/home/terry/salty-ws/devel/.private/rosserial_xbee/cmake.lock /home/terry/salty-ws/devel/./cmake.lock
+/home/terry/salty-ws/devel/.private/rosserial_xbee/lib/python3/dist-packages/rosserial_xbee/__init__.py /home/terry/salty-ws/devel/lib/python3/dist-packages/rosserial_xbee/__init__.py
+/home/terry/salty-ws/devel/.private/rosserial_xbee/lib/python3/dist-packages/xbee/__init__.py /home/terry/salty-ws/devel/lib/python3/dist-packages/xbee/__init__.py
+/home/terry/salty-ws/devel/.private/rosserial_xbee/lib/pkgconfig/rosserial_xbee.pc /home/terry/salty-ws/devel/lib/pkgconfig/rosserial_xbee.pc
+/home/terry/salty-ws/devel/.private/rosserial_xbee/share/rosserial_xbee/cmake/rosserial_xbeeConfig.cmake /home/terry/salty-ws/devel/share/rosserial_xbee/cmake/rosserial_xbeeConfig.cmake
+/home/terry/salty-ws/devel/.private/rosserial_xbee/share/rosserial_xbee/cmake/rosserial_xbeeConfig-version.cmake /home/terry/salty-ws/devel/share/rosserial_xbee/cmake/rosserial_xbeeConfig-version.cmake

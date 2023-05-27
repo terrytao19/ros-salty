@@ -1,0 +1,6 @@
+devel_space: /home/terry/salty-ws/devel
+install: false
+install_space: /home/terry/salty-ws/install
+profile: default
+source_space: /home/terry/salty-ws/src
+workspace: /home/terry/salty-ws

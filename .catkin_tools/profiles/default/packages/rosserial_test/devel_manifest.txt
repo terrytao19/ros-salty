@@ -1,0 +1,5 @@
+rosserial/rosserial_test
+/home/terry/salty-ws/devel/.private/rosserial_test/cmake.lock /home/terry/salty-ws/devel/./cmake.lock
+/home/terry/salty-ws/devel/.private/rosserial_test/lib/pkgconfig/rosserial_test.pc /home/terry/salty-ws/devel/lib/pkgconfig/rosserial_test.pc
+/home/terry/salty-ws/devel/.private/rosserial_test/share/rosserial_test/cmake/rosserial_testConfig-version.cmake /home/terry/salty-ws/devel/share/rosserial_test/cmake/rosserial_testConfig-version.cmake
+/home/terry/salty-ws/devel/.private/rosserial_test/share/rosserial_test/cmake/rosserial_testConfig.cmake /home/terry/salty-ws/devel/share/rosserial_test/cmake/rosserial_testConfig.cmake

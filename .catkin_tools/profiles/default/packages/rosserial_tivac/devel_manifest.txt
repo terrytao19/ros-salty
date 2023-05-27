@@ -1,0 +1,6 @@
+rosserial/rosserial_tivac
+/home/terry/salty-ws/devel/.private/rosserial_tivac/cmake.lock /home/terry/salty-ws/devel/./cmake.lock
+/home/terry/salty-ws/devel/.private/rosserial_tivac/lib/pkgconfig/rosserial_tivac.pc /home/terry/salty-ws/devel/lib/pkgconfig/rosserial_tivac.pc
+/home/terry/salty-ws/devel/.private/rosserial_tivac/share/rosserial_tivac/cmake/rosserial_tivacConfig-version.cmake /home/terry/salty-ws/devel/share/rosserial_tivac/cmake/rosserial_tivacConfig-version.cmake
+/home/terry/salty-ws/devel/.private/rosserial_tivac/share/rosserial_tivac/cmake/rosserial_tivac-extras.cmake /home/terry/salty-ws/devel/share/rosserial_tivac/cmake/rosserial_tivac-extras.cmake
+/home/terry/salty-ws/devel/.private/rosserial_tivac/share/rosserial_tivac/cmake/rosserial_tivacConfig.cmake /home/terry/salty-ws/devel/share/rosserial_tivac/cmake/rosserial_tivacConfig.cmake

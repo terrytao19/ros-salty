@@ -1,0 +1,38 @@
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target _apriltag_ros_generate_messages_check_deps_AnalyzeSingleImage
+[  0%] Built target _apriltag_ros_generate_messages_check_deps_AprilTagDetection
+[  0%] Built target _apriltag_ros_generate_messages_check_deps_AprilTagDetectionArray
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[ 10%] Built target apriltag_ros_generate_messages_cpp
+[ 26%] Built target apriltag_ros_generate_messages_py
+[ 36%] Built target apriltag_ros_generate_messages_nodejs
+[ 50%] Built target apriltag_ros_generate_messages_eus
+[ 60%] Built target apriltag_ros_generate_messages_lisp
+[35m[1mScanning dependencies of target apriltag_ros_common[0m
+[ 60%] Built target apriltag_ros_generate_messages
+[ 63%] [32mBuilding CXX object CMakeFiles/apriltag_ros_common.dir/src/common_functions.cpp.o[0m
+[ 66%] [32m[1mLinking CXX shared library /home/terry/salty-ws/devel/.private/apriltag_ros/lib/libapriltag_ros_common.so[0m
+[ 66%] Built target apriltag_ros_common
+[ 73%] [32m[1mLinking CXX shared library /home/terry/salty-ws/devel/.private/apriltag_ros/lib/libapriltag_ros_single_image_detector.so[0m
+[ 73%] [32m[1mLinking CXX shared library /home/terry/salty-ws/devel/.private/apriltag_ros/lib/libapriltag_ros_continuous_detector.so[0m
+[ 76%] [32m[1mLinking CXX executable /home/terry/salty-ws/devel/.private/apriltag_ros/lib/apriltag_ros/apriltag_ros_single_image_client_node[0m
+[ 80%] Built target apriltag_ros_single_image_detector
+[ 83%] Built target apriltag_ros_continuous_detector
+[ 86%] [32m[1mLinking CXX executable /home/terry/salty-ws/devel/.private/apriltag_ros/lib/apriltag_ros/apriltag_ros_continuous_node[0m
+[ 90%] Built target apriltag_ros_single_image_client_node
+[ 93%] [32m[1mLinking CXX executable /home/terry/salty-ws/devel/.private/apriltag_ros/lib/apriltag_ros/apriltag_ros_single_image_server_node[0m
+[ 96%] Built target apriltag_ros_continuous_node
+[100%] Built target apriltag_ros_single_image_server_node

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/terry/salty-ws/devel/.private/ros-salty/setup.sh

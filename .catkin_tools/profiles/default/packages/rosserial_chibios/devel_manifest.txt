@@ -1,0 +1,7 @@
+rosserial/rosserial_chibios
+/home/terry/salty-ws/devel/.private/rosserial_chibios/cmake.lock /home/terry/salty-ws/devel/./cmake.lock
+/home/terry/salty-ws/devel/.private/rosserial_chibios/lib/pkgconfig/rosserial_chibios.pc /home/terry/salty-ws/devel/lib/pkgconfig/rosserial_chibios.pc
+/home/terry/salty-ws/devel/.private/rosserial_chibios/share/rosserial_chibios/cmake.lock /home/terry/salty-ws/devel/share/rosserial_chibios/cmake.lock
+/home/terry/salty-ws/devel/.private/rosserial_chibios/share/rosserial_chibios/make_libraries.py /home/terry/salty-ws/devel/share/rosserial_chibios/make_libraries.py
+/home/terry/salty-ws/devel/.private/rosserial_chibios/share/rosserial_chibios/cmake/rosserial_chibiosConfig-version.cmake /home/terry/salty-ws/devel/share/rosserial_chibios/cmake/rosserial_chibiosConfig-version.cmake
+/home/terry/salty-ws/devel/.private/rosserial_chibios/share/rosserial_chibios/cmake/rosserial_chibiosConfig.cmake /home/terry/salty-ws/devel/share/rosserial_chibios/cmake/rosserial_chibiosConfig.cmake

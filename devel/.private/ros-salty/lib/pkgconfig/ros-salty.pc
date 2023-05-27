@@ -1,0 +1,8 @@
+prefix=/home/terry/salty-ws/devel/.private/ros-salty
+
+Name: ros-salty
+Description: Description of ros-salty
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

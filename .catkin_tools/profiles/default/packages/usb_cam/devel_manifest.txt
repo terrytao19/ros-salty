@@ -1,0 +1,7 @@
+usb_cam
+/home/terry/salty-ws/devel/.private/usb_cam/cmake.lock /home/terry/salty-ws/devel/./cmake.lock
+/home/terry/salty-ws/devel/.private/usb_cam/lib/libusb_cam.so /home/terry/salty-ws/devel/lib/libusb_cam.so
+/home/terry/salty-ws/devel/.private/usb_cam/lib/usb_cam/usb_cam_node /home/terry/salty-ws/devel/lib/usb_cam/usb_cam_node
+/home/terry/salty-ws/devel/.private/usb_cam/lib/pkgconfig/usb_cam.pc /home/terry/salty-ws/devel/lib/pkgconfig/usb_cam.pc
+/home/terry/salty-ws/devel/.private/usb_cam/share/usb_cam/cmake/usb_camConfig.cmake /home/terry/salty-ws/devel/share/usb_cam/cmake/usb_camConfig.cmake
+/home/terry/salty-ws/devel/.private/usb_cam/share/usb_cam/cmake/usb_camConfig-version.cmake /home/terry/salty-ws/devel/share/usb_cam/cmake/usb_camConfig-version.cmake

@@ -1,0 +1,5 @@
+Symlinking /home/terry/salty-ws/devel/lib/libusb_cam.so
+Symlinking /home/terry/salty-ws/devel/lib/usb_cam/usb_cam_node
+Symlinking /home/terry/salty-ws/devel/lib/pkgconfig/usb_cam.pc
+Symlinking /home/terry/salty-ws/devel/share/usb_cam/cmake/usb_camConfig.cmake
+Symlinking /home/terry/salty-ws/devel/share/usb_cam/cmake/usb_camConfig-version.cmake

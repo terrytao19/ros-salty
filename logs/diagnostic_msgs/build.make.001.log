@@ -1,0 +1,16 @@
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _diagnostic_msgs_generate_messages_check_deps_DiagnosticArray
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _diagnostic_msgs_generate_messages_check_deps_DiagnosticStatus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _diagnostic_msgs_generate_messages_check_deps_AddDiagnostics
+[  0%] Built target _diagnostic_msgs_generate_messages_check_deps_KeyValue
+[  0%] Built target _diagnostic_msgs_generate_messages_check_deps_SelfTest
+[ 46%] Built target diagnostic_msgs_generate_messages_py
+[ 46%] Built target diagnostic_msgs_generate_messages_eus
+[ 64%] Built target diagnostic_msgs_generate_messages_cpp
+[ 96%] Built target diagnostic_msgs_generate_messages_nodejs
+[100%] Built target diagnostic_msgs_generate_messages_lisp
+[100%] Built target diagnostic_msgs_generate_messages

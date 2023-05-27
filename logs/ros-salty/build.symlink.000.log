@@ -1,0 +1,5 @@
+Symlinking /home/terry/salty-ws/devel/lib/pkgconfig/ros-salty.pc
+Symlinking /home/terry/salty-ws/devel/lib/ros-salty/cmake.lock
+Symlinking /home/terry/salty-ws/devel/lib/ros-salty/motor_node.py
+Symlinking /home/terry/salty-ws/devel/share/ros-salty/cmake/ros-saltyConfig.cmake
+Symlinking /home/terry/salty-ws/devel/share/ros-salty/cmake/ros-saltyConfig-version.cmake

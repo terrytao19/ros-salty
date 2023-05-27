@@ -1,0 +1,7 @@
+ros-salty
+/home/terry/salty-ws/devel/.private/ros-salty/cmake.lock /home/terry/salty-ws/devel/./cmake.lock
+/home/terry/salty-ws/devel/.private/ros-salty/lib/pkgconfig/ros-salty.pc /home/terry/salty-ws/devel/lib/pkgconfig/ros-salty.pc
+/home/terry/salty-ws/devel/.private/ros-salty/lib/ros-salty/cmake.lock /home/terry/salty-ws/devel/lib/ros-salty/cmake.lock
+/home/terry/salty-ws/devel/.private/ros-salty/lib/ros-salty/motor_node.py /home/terry/salty-ws/devel/lib/ros-salty/motor_node.py
+/home/terry/salty-ws/devel/.private/ros-salty/share/ros-salty/cmake/ros-saltyConfig.cmake /home/terry/salty-ws/devel/share/ros-salty/cmake/ros-saltyConfig.cmake
+/home/terry/salty-ws/devel/.private/ros-salty/share/ros-salty/cmake/ros-saltyConfig-version.cmake /home/terry/salty-ws/devel/share/ros-salty/cmake/ros-saltyConfig-version.cmake

@@ -1,0 +1,8 @@
+prefix=/home/terry/salty-ws/devel/.private/diagnostic_msgs
+
+Name: diagnostic_msgs
+Description: Description of diagnostic_msgs
+Version: 1.13.1
+Cflags: -I/home/terry/salty-ws/devel/.private/diagnostic_msgs/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs

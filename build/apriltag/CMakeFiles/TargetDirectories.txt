@@ -1,0 +1,10 @@
+/home/terry/salty-ws/build/apriltag/CMakeFiles/install/local.dir
+/home/terry/salty-ws/build/apriltag/CMakeFiles/install.dir
+/home/terry/salty-ws/build/apriltag/CMakeFiles/list_install_components.dir
+/home/terry/salty-ws/build/apriltag/CMakeFiles/rebuild_cache.dir
+/home/terry/salty-ws/build/apriltag/CMakeFiles/edit_cache.dir
+/home/terry/salty-ws/build/apriltag/CMakeFiles/opencv_demo.dir
+/home/terry/salty-ws/build/apriltag/CMakeFiles/apriltag_demo.dir
+/home/terry/salty-ws/build/apriltag/CMakeFiles/install/strip.dir
+/home/terry/salty-ws/build/apriltag/CMakeFiles/apriltag_python.dir
+/home/terry/salty-ws/build/apriltag/CMakeFiles/apriltag.dir
